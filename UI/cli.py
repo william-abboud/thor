@@ -1,8 +1,9 @@
 import click
 from requests import exceptions
-from Preferences.TorrentPreferences import TorrentPreferences
+
 from Exceptions.TorrentMatchNotFoundException import TorrentMatchNotFoundException
 from Kickass.KickassMain import main
+from Preferences.TorrentPreferences import TorrentPreferences
 
 
 @click.command()

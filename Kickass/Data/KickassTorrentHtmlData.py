@@ -1,4 +1,5 @@
 from urllib.parse import unquote
+
 from Data.TorrentData import TorrentData
 
 

@@ -1,6 +1,7 @@
 from fuzzywuzzy import fuzz
-from Utils.utils import open_magnet
+
 from Exceptions.TorrentMatchNotFoundException import *
+from Utils.utils import open_magnet
 
 
 def is_torrent_over_min_gb(torrent_info):

@@ -1,6 +1,6 @@
-from Kickass.Data.KickassTorrentsUrlProvider import KickassTorrentsUrlProvider
-from Kickass.Business.KickassTorrentsHtmlParser import KickassTorrentsHtmlParser
 from Business.TorrentsFinder import TorrentsFinder
+from Kickass.Business.KickassTorrentsHtmlParser import KickassTorrentsHtmlParser
+from Kickass.Data.KickassTorrentsUrlProvider import KickassTorrentsUrlProvider
 
 
 def main(query, preferences):

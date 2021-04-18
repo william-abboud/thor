@@ -1,4 +1,5 @@
 from urllib.parse import urlparse, urljoin, urlencode, quote, urlunparse, parse_qsl
+
 from Data.TorrentsUrlProvider import TorrentsUrlProvider
 
 BASE_URL = 'https://kickass.onl/usearch/'
