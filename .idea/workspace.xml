@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51090e5d-44c6-41ce-9e6c-eb5040871a8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1phqldgKMONbZEcJuBRD98g26hn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.cli">
+    <configuration name="cli (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Stupify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Stupify" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Stupify/cli.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cli" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Stupify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Stupify" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Stupify/cli.py" />
+      <option name="PARAMETERS" value="&quot;the punisher&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stupify" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Stupify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stupify.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cli" />
+        <item itemvalue="Python.cli (1)" />
+        <item itemvalue="Python.cli" />
+        <item itemvalue="Python.stupify" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51090e5d-44c6-41ce-9e6c-eb5040871a8b" name="Default Changelist" comment="" />
+      <created>1615645821195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615645821195</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="547" y="215" key="#cli" timestamp="1616107128166">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="547" y="215" key="#cli/0.0.1680.1050@0.0.1680.1050" timestamp="1616107128166" />
+    <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615746467493">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1615746467493" />
+    <state x="373" y="282" key="#xdebugger.XInspectDialog" timestamp="1616109227067">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="373" y="282" key="#xdebugger.XInspectDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1616109227067" />
+    <state width="1179" height="466" key="DebuggerActiveHint" timestamp="1616260916833">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1179" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1616260916833" />
+    <state width="1659" height="390" key="GridCell.Tab.0.bottom" timestamp="1616581042469">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="390" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1616581042469" />
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1615729476076" />
+    <state width="1659" height="390" key="GridCell.Tab.0.center" timestamp="1616581042468">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="390" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1616581042468" />
+    <state width="1659" height="295" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1615729476074" />
+    <state width="1659" height="390" key="GridCell.Tab.0.left" timestamp="1616581042467">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="390" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1616581042467" />
+    <state width="1659" height="295" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1615729476073" />
+    <state width="1659" height="390" key="GridCell.Tab.0.right" timestamp="1616581042468">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="390" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1616581042468" />
+    <state width="1659" height="295" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1615729476075" />
+    <state width="1659" height="390" key="GridCell.Tab.1.bottom" timestamp="1616581042483">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="390" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1616581042483" />
+    <state width="1659" height="390" key="GridCell.Tab.1.center" timestamp="1616581042482">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="390" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1616581042482" />
+    <state width="1659" height="390" key="GridCell.Tab.1.left" timestamp="1616581042470">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="390" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1616581042470" />
+    <state width="1659" height="390" key="GridCell.Tab.1.right" timestamp="1616581042482">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="390" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1616581042482" />
+    <state x="349" y="161" key="SettingsEditor" timestamp="1615750819471">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="349" y="161" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1615750819471" />
+    <state x="517" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1615736128898">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="517" y="354" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1615736128898" />
+    <state x="404" y="265" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1616107071115">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="404" y="265" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1680.1050@0.0.1680.1050" timestamp="1616107071115" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="&quot;the punisher&quot;" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
