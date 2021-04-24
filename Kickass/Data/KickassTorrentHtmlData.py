@@ -8,7 +8,7 @@ class KickassTorrentHtmlData(TorrentData):
         name = tag.select_one('.torrentname .cellMainLink').text
         size = tag.select_one('.nobr').text
         link = tag.select_one('a[data-download]').attrs['href']
-        download_link = unquote(unquote(link))
+        download_link = unquote(link)
         magnet_link = download_link.split('?url=')[1]
 
         try:
