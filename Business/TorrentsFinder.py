@@ -1,6 +1,6 @@
 from fuzzywuzzy import fuzz
 
-from Exceptions.TorrentMatchNotFoundException import *
+from Exceptions.TorrentMatchNotFoundException import TorrentMatchNotFoundException
 from Utils.utils import open_magnet
 
 
@@ -70,7 +70,7 @@ class TorrentsFinder:
             best_match = find_best_torrent_match(best_matches)
 
             return best_match
-        except IndexError:
+        except IndexError as index_error:
             raise TorrentMatchNotFoundException(f'Could not find any good matches for query "{self.search_query}"')
 
     def download_torrent(self, torrent):
