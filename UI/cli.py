@@ -7,7 +7,7 @@ from Preferences.TorrentPreferences import TorrentPreferences
 
 
 @click.command()
-@click.argument('query')
+@click.option("--query", prompt="Enter your search (try being as specific as possible)", help="Specify your query")
 def init(query):
     preferences = TorrentPreferences(5, 'movie', 20)
     print(f'Searching for "{query}" with a minimum of {preferences.min_num_seeders} seeders...\n')
@@ -21,7 +21,3 @@ def init(query):
     except TorrentMatchNotFoundException as not_found_error:
         print(not_found_error)
         print('Hint: If you don\'t find the results you are looking for on the first run try being more specific.\n ')
-
-
-if __name__ == '__main__':
-    init()
