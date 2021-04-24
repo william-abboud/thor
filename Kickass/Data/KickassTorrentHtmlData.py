@@ -10,6 +10,10 @@ class KickassTorrentHtmlData(TorrentData):
         link = tag.select_one('a[data-download]').attrs['href']
         download_link = unquote(unquote(link))
         magnet_link = download_link.split('?url=')[1]
-        seeders = int(tag.select_one('.green.center').text)
+
+        try:
+            seeders = int(tag.select_one('.green.center').text)
+        except ValueError:
+            seeders = 0
 
         super().__init__(name, size, magnet_link, seeders)
